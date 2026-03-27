@@ -235,14 +235,23 @@ Each artifact update must include:
 
 ---
 
-### 10.8 Content Scope
+### 10.8 Content Rules (STRICT)
 
-Artifact must include:
+Artifact is a raw interaction log.
 
-* All prompts
-* All responses
-* No filtering
-* No summarization
+Must include:
+
+* Exact user prompts
+* Exact ChatGPT responses
+
+Must NOT:
+
+* Use SOP framework
+* Summarize content
+* Reformat responses
+* Optimize structure
+
+Artifact = full conversation preservation
 
 ---
 
