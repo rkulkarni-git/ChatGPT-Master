@@ -1,0 +1,22 @@
+# Instructions: ChatGPT Execution Model (Project)
+
+## Chat Types
+| Chat Name | Purpose |
+|----------|--------|
+| brainstorming | architecture, planning |
+| script build | script creation |
+| script testing | debugging |
+| script validation | final validation |
+| documentation | SOP, KB, FAQ, Artifacts |
+| revision | update instructions |
+| skill build | build and maintain skills |
+
+## Skill Build Chat Rules
+- Only skill creation/update
+- No project work
+- No SOP/FAQ output
+- Output: skill md + changelog
+
+## Metadata
+Version: v1.3
+Last Updated: 2026-03-27
