@@ -9,3 +9,10 @@
 * Defined artifact generation rules
 
 Author: Rohit Kulkarni
+
+## v1.1 - 2026-03-27
+
+* Added artifact generation model
+* Defined append-only artifact rules
+* Introduced numbering sequence enforcement
+* Added artifact changelog requirements
